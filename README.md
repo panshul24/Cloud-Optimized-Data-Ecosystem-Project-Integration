@@ -23,3 +23,13 @@ Step 2: **Knime Workflow Setup**
 Post the data setup 2 Workflows have been made one for the Yelp DataBase, the other for the NFT Sales Insights.
 
 All the files are available in the repository for further understanding.
+
+Below are the screenshots of the workflows for reference.
+
+Yelp_Insights_knime: ![image](https://github.com/panshul24/Cloud-Optimized-Data-Ecosystem-Project-Integration/assets/68370779/71f14e07-9470-4198-82f4-0ed97bf20bc8)
+
+NFT_SalesInsights_Knime:![image](https://github.com/panshul24/Cloud-Optimized-Data-Ecosystem-Project-Integration/assets/68370779/75f160af-eb50-4913-91ca-c3d2b463d456)
+
+PanshulSaraswat_Yelp: ![image](https://github.com/panshul24/Cloud-Optimized-Data-Ecosystem-Project-Integration/assets/68370779/4413688a-354a-4d37-81f9-cf7e844af5e2)
+
+
